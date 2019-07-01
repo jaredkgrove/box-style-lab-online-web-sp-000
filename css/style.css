@@ -74,4 +74,5 @@ h4.dubious{
 
 img {
   border: 5px solid #777;
+  box-sizing: border-box;
 }
