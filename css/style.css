@@ -44,15 +44,15 @@ h4 {
 }
 
 h4.amiable{
-  background: linear-gradient(to left, #44cc66, #22aa44, #008822);
+  background: linear-gradient(to left, #44cc66, #008822);
 }
 
 h4.indifferent{
-  background: linear-gradient(to left, #ffff44, #dddd22, #bbbb00);
+  background: linear-gradient(to left, #ffff44, #bbbb00);
 }
 
 h4.dubious{
-  background: linear-gradient(to left, #ff6666, #dd4444, #bb2222);
+  background: linear-gradient(to left, #ff6666, #bb2222);
 }
 
 .column {
